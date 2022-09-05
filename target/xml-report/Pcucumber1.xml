@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="26.896">
+    <testcase classname="Android" name="verify wifi text" time="26.348">
+        <system-out>
+            <![CDATA[Given navigate to apidemos and click preferences............................passed
+Then click preference dependencies..........................................passed
+And activate wifi check box.................................................passed
+Then click wifi settings....................................................passed
+And write holder "thanks god appium has ended" and click ok.................passed
+Then verify written text in the holder......................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

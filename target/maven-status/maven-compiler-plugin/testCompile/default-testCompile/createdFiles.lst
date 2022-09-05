@@ -1,0 +1,5 @@
+AppiumTest\runners\TestRunner.class
+AppiumTest\page\Wifipage.class
+AppiumTest\stepdefinitions\WififStepDefinitions.class
+AppiumTest\utilities\Driver.class
+AppiumTest\utilities\ConfigurationReader.class
